@@ -9,8 +9,8 @@
 		<version>2.5.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.esms.ms</groupId>
-	<artifactId>eureka-server-sb-admin-config-cleint</artifactId>
+	<groupId>com.cloudapps.developer</groupId>
+	<artifactId>eureka-server-sconfig-cleint</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eureka-server-sb-admin-config-client</name>
 	<description>Eureka Server with spring boot admin application and config client</description>
